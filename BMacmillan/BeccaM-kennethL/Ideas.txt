@@ -1,0 +1,11 @@
+countdown for mediums of entertainment (new episodes, new show, new film)- yourcountdown.io // can change it for the university
+    possibly - whether waiting for food or club activities...
+    
+trip planner/ itinerary (with more insight on what time you should depart to get somewhere ontime/ could utilize google maps API) -
+    Andrew Harper (focuses on creating luxury trips) // Bell & Bly - creating itineraries for clients
+    
+isolated to do lists - visual bucket list/ similar to some of the features on notion // can create a community,,,?
+    
+keeping track of availability & prices of local books/comic books/ mnga or anything that can be "collected" // stock x
+    
+    

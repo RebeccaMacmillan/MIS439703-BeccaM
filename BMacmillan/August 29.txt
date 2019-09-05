@@ -1,0 +1,18 @@
+view, logic and data all inside same file when using react
+
+when working in react. working in the state. 
+improtant to know at what level to maintain state when working in react.
+dont want to set state too much when working in react.
+
+
+look up this. in ract/HTML
+look up state in react
+look up <approot> in react
+datagrid
+ternary
+swardim@gmail.com Sarim Q.
+
+look into application deployment
+
+
+

@@ -1,0 +1,8 @@
+IDE - IDE stands for Integrated Development Environment. An IDE is used to write, compile, run and debug code. 
+Cloud - The cloud is another word that is often used to refer to the internet its self or online servers used to store information. 
+AWS - AWS stands for Amazon Web Services. AWS is a platform run by Amazon that provides cloud services, such as virtual serves are databases, to anyone that wants to access them. 
+Bootstrap - Bootstrap is a framework that allows users to use pieces of prewritten code for basic website functions, provided by bootsrap, in their websites to help make website design faster. 
+Terminal - The terminal is an interface that can be used to execute commands such as entering, retrieving, or showing information from the computer..
+Git - git is defined as a distributed version-control system. Git is used to help track changes made to files. It is particularly useful when working on projects as a group as it allows group members to work on different parts of the same project at the same time without effeting eachother. 
+GitHub - is a platform that is used by programmers to store and share their projects. It is where members of a group working on the same project can push their work to, to be accessed by other group memebrs as well as pull code from other group memebrs to use themselves. 
+

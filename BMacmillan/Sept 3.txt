@@ -1,0 +1,12 @@
+objective C and swift used to program IOS apps
+Objective C provides more tools features but it is more compldicated.
+
+
+bash - born again shell 
+
+ruby .file path here - runs files in the command prompt
+
+pwd - print working directory
+
+
+ls,cd,pwd,mv,cp,
